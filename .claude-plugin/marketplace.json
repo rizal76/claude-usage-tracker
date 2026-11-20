@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-usage-tracker",
+  "description": "Claude plan usage vs. target status line.",
+  "owner": { "name": "rizal76", "url": "https://github.com/rizal76" },
+  "plugins": [
+    {
+      "name": "claude-usage-tracker",
+      "description": "Status line: 5h and weekly plan usage vs. an even-spread target.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

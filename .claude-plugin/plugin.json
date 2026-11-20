@@ -1,0 +1,7 @@
+{
+  "name": "claude-usage-tracker",
+  "description": "Status line that shows your Claude plan usage (5h and weekly) against an even-spread target, so you can see if you are under or over budget.",
+  "version": "0.1.0",
+  "author": { "name": "rizal76", "url": "https://github.com/rizal76" },
+  "license": "MIT"
+}
